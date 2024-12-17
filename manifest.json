@@ -1,0 +1,20 @@
+{
+    "name": "DICTIONARY",
+    "short_name": "DICTIONARY",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "152x148",
+        "type": "image/png"
+      },
+      {
+        "src": "images.png",
+        "sizes": "225x225",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ddd",
+    "theme_color": "#333"
+  }
